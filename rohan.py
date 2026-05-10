@@ -24,4 +24,4 @@ for i in range(n):
 # Output
 print("Sorted Array:")
 
-print(arr) EXPLAIN LIN WISE
+print(arr)
